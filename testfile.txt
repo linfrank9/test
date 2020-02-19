@@ -2,4 +2,8 @@ test files for git
 測試用,
 修改檔案內容
 edit 20200219
+<<<<<<< HEAD
 edit by test
+=======
+edit 
+>>>>>>> 68de9a081113647e74c5cc48c0d0620d5e2f9a32
